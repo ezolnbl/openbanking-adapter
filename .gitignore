@@ -1,5 +1,5 @@
 HELP.md
-/target/
+/sources/openbanking-adapter/target/*
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
